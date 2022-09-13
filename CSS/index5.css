@@ -1,0 +1,21 @@
+table {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+td {
+    padding: 5px;
+}
+
+.firstrow {
+
+    background-color: rgb(215, 215, 255);
+}
+
+.thirdrow {
+
+   background-color: rgb(235, 213, 255);
+}

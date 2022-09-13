@@ -1,0 +1,19 @@
+.container {
+
+    position: relative;
+    height: 300px;
+    width: 800px;
+    border: 2px solid blue;
+}
+
+.content {
+
+    position: relative;
+    width: 150px;
+    height: 100px;
+    border: 2px solid pink;
+    margin: 0 auto;
+    top: 50%;
+    transform: translateY(-50px); 
+    
+}
