@@ -1,21 +1,21 @@
 table {
-
-    border: 1px solid black;
-    border-collapse: collapse;
-    text-align: center;
-    
+  border: 2px solid black;
+  border-style: dotted;
+  border-collapse: collapse;
+  text-align: center;
 }
 
-td {
-    padding: 5px;
+td,
+th {
+  padding: 5px;
+  font-family: futura;
+  color: rgb(3, 0, 181);
 }
 
 .firstrow {
-
-    background-color: rgb(215, 215, 255);
+  background-color: rgb(215, 215, 255);
 }
 
 .thirdrow {
-
-   background-color: rgb(235, 213, 255);
+  background-color: rgb(235, 213, 255);
 }

@@ -1,11 +1,12 @@
 div .container {
   width: 400px;
   height: 200px;
-  border: 2px solid blue;
+  border: 2px solid rgb(75, 238, 189);
 }
 
 .blabla {
-  background-color: pink;
+  background-color: rgb(177, 99, 251);
+  color: rgb(222, 253, 152);
 }
 
 .container,

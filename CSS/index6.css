@@ -1,17 +1,17 @@
 ul {
-list-style-position: inside;
-    list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5e/Smiley_icon.svg);
+  list-style-position: inside;
+  list-style-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5e/Smiley_icon.svg);
 }
 
 .secondlist {
-
-    list-style: circle;
-    display: inline-block;
-    background-color: rgb(228, 198, 252);
+  list-style: circle;
+  display: inline-block;
+  margin-left: 20px;
+  background-color: rgb(228, 198, 252);
 }
 
 .secondlist li {
-
-    color: blue;
-    background-color: rgb(193, 234, 255);
+  color: blue;
+  background-color: rgb(193, 234, 255);
+  list-style-position: inside;
 }
